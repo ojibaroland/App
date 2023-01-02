@@ -26,7 +26,7 @@ function App() {
     </Routes> */}
 
 
-      <div className="container">
+      <div className="containerr">
         <input type="number" value={currency} onChange={(e) =>setCurrency(e.target.value)} placeholder="Enter a number here"/>
         <br/>
         <br />
